@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java EE, JavaScript y Node JS**
 
-- 💬 Ask me about **HTML, CSS, C, C++, Java y JavaScript**
+- 💬 Ask me about **HTML, CSS, Java, JavaScript y PHP**
 
 - 📫 How to reach me **altamiranoohernandezalan@gmail.com**
 
