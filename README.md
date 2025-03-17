@@ -23,11 +23,10 @@ Soy un estudiante de informática con interés en el desarrollo backend. Me gust
 <br>
 
 ## 📅 Contribuciones recientes  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AlanAltamiranoH1504&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanAltamiranoH1504&show_icons=true&theme=radical)
 
 ## 🌎 Conéctate conmigo  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altamiranohernandezalan@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=radical)](mailto:altamiranohernandezalan@gmail.com)  
 
 <h3 align="left">Lenguajes y Tecnologias</h3>
 <!--tech stack icons-->
