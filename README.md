@@ -5,7 +5,7 @@
 <h3>💻 Construyendo proyectos para mejorar mis habilidades y prepararme para el mundo profesional.</h3><br>
 
 ## 📝 Sobre mí  
-Soy un estudiante de informática con interés en el desarrollo backend. Me gusta trabajar en proyectos que desafíen mis habilidades y me permitan aplicar nuevas tecnologías. Actualmente estoy explorando **SpringBoot** y **ExpressJS**.
+Soy un estudiante de informática con interés en el desarrollo backend. Me gusta trabajar en proyectos que desafíen mis habilidades y me permitan aplicar nuevas tecnologías. Actualmente estoy explorando **SpringBoot**, **ExpressJS**, **React** y **JUnit** .
 <br>
 
 
