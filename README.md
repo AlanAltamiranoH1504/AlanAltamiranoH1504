@@ -32,19 +32,19 @@ Soy recién egresado de la carrera de Ciencias de la Informática, con un fuerte
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,react,ts,php,laravel,mysql,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,react,ts,php,laravel" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,pug,css,bootstrap,tailwind,figma,sequelize,hibernate,git,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,pug,bootstrap,tailwind,sequelize,hibernate" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,idea,phpstorm,webstorm" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,phpstorm,webstorm" />
   </a>
 </p>
 
