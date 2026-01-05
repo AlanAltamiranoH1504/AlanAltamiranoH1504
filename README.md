@@ -12,7 +12,7 @@ Soy egresado de la carrera de Ciencias de la Informática, con un fuerte interé
 <br>
 ## 📚 Habilidades y Tecnologías
 
-- 🔹 **Frontend:** HTML, CSS, JavaScript, React, Pug, Handlebars, TailwindCSS, Bootstrap, AJAX  
+- 🔹 **Frontend:** HTML, JavaScript, React, Pug, Handlebars, TailwindCSS, Bootstrap, AJAX  
 - 🔹 **Backend:** PHP (Laravel, MVC), Node.js (ExpressJS, NestJS), Java (Spring Boot)  
 - 🔹 **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
 - 🔹 **Lenguajes de Programación:** PHP, Java, JavaScript, TypeScript, SQL  
