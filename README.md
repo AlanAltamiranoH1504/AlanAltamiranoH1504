@@ -1,7 +1,7 @@
 <h1>💼 ¡Hola! Soy Alan Altamirano Hernández</h1>
 <h3>Desarrollador Backend | IPN | Laravel | NestJS | Spring Boot</h3>
 
-<img src="https://komarev.com/ghpvc/?username=AlanAltamiranoH1504&label=Profile%20Views&color=green&style=flat" />
+
 
 <h3>💼 Desarrollador Backend y egresado de la Licenciatura en Ciencias de la Informática del Instituto Politécnico Nacional.</h3> 
 <h3>💡 Apasionado por la tecnología y el desarrollo web.</h3>
