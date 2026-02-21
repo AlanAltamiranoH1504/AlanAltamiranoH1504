@@ -87,16 +87,14 @@ Actualmente trabajo con **Laravel y PHP**, y continúo fortaleciendo mis habilid
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanAltamiranoH1504&show_icons=true&theme=merko" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlanAltamiranoH1504&layout=compact&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlanAltamiranoH1504&show_icons=true&theme=merko" />
+</div>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAltamiranoH1504&layout=compact&theme=merko" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanAltamiranoH1504&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanAltamiranoH1504&theme=merko" />
 </p>
 
 <p align="center">
