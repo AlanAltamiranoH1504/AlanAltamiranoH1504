@@ -72,7 +72,7 @@ Actualmente trabajo con **Laravel y PHP**, y continúo fortaleciendo mis habilid
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,phpstorm,webstorm" />
+  <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,phpstorm,webstorm" />
 </p>
 
 ---
